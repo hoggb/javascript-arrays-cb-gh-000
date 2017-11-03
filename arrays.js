@@ -9,3 +9,11 @@ function destructivelyAddElementToBeginningOfArray(arr, value){
   arr.unshift(value)
   return arr
 }
+
+function addElementToEndOfArray(arr, value){
+  
+}
+
+function destructivelyAddElementToEndOfArray(arr, value){
+  
+}
